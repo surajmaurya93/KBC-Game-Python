@@ -4,4 +4,5 @@ Welcome to the KBC Game, a Python implementation of the popular quiz show "Kaun 
 Features
 
 • Multiple Levels: Progress through levels by answering questions correctly.
+
 • Prize Money: Earn increasing amounts of virtual money as you advance.
